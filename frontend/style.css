@@ -1,0 +1,30 @@
+div {
+    background-color:black;
+    color: white;
+    display: flex;
+    gap: 20px;
+    justify-content:space-between;
+    /*padding: 10px,  20px;*/
+    align-items: center;
+    
+}
+
+.cards-container {
+    display: flex;
+}
+
+.Hotel-card {
+    background-color: blueviolet;
+    border: 3px solid red;
+    padding: 10px,  20px;
+    width:  300px;
+    display:block;
+}
+
+button {
+    background-color: black;
+    color: white;
+    /*padding: 10px;*/
+    border: 20px crimson;
+    margin-top: 10px;
+}
